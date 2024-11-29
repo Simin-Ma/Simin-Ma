@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Simin-Ma
-- 👀 I’m interested in Deep Learning, NLP, etc.
+- 👀 I’m interested in Bayesian Deep Learning, Uncertainty Quantification, generative AI, etc.
 - 🌱 I’m currently learning Data Science at TU Dortmund.
 - 💞️ I’m looking to collaborate on BNN.
 
